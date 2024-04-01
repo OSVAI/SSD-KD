@@ -1,4 +1,4 @@
-# Small Scale Data-Free Knowledge Distillation (SSD-KD)
+# Small Scale Data-Free Knowledge Distillation
 
 By He Liu, Yikai Wang, Huaping Liu, Fuchun Sun and Anbang Yao
 
