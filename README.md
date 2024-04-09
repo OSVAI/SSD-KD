@@ -8,4 +8,4 @@ Data-free knowledge distillation (D-KD) is able to utilize the knowledge learned
 
 ![teaser](./framework_ssd-kd.png)
 
-## Code will be coming soon. Stay tuned.
+## We are in the process of preparing the code for release. Stay tuned.
